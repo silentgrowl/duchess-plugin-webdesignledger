@@ -17,3 +17,7 @@ And then execute:
 ## Usage
 
 Post the latest Web Design Ledger stories into a room by typing ```!webdesignledger``` or ```!wdl``` in chat.
+
+## Links
+
+* [isis-plugin-webdesignledger on RubyGems](https://rubygems.org/gems/isis-plugin-webdesignledger)
