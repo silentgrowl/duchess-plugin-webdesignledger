@@ -1,13 +1,13 @@
-# Isis plugin: Web Design Ledger
+# Duchess plugin: Web Design Ledger
 
-This plugin adds a [Web Design Ledger](http://www.webdesignledger.com) command to the [Isis chatbot](https://github.com/silentgrowl/isis)
+This plugin adds a [Web Design Ledger](http://www.webdesignledger.com) command to the [Duchess chatbot](https://github.com/silentgrowl/duchess)
 
 ## Installation
 
-Add this line to your Isis installation's Gemfile:
+Add this line to your Duchess installation's Gemfile:
 
 ``ruby
-gem 'isis-plugin-webdesignledger'
+gem 'duchess-plugin-webdesignledger'
 ``
 
 And then execute:
@@ -20,4 +20,4 @@ Post the latest Web Design Ledger stories into a room by typing ```!webdesignled
 
 ## Links
 
-* [isis-plugin-webdesignledger on RubyGems](https://rubygems.org/gems/isis-plugin-webdesignledger)
+* [duchess-plugin-webdesignledger on RubyGems](https://rubygems.org/gems/duchess-plugin-webdesignledger)

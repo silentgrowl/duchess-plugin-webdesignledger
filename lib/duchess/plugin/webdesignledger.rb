@@ -1,8 +1,8 @@
 require "rss"
 
-module Isis
+module Duchess
   module Plugin
-    class WebDesignLedger < Isis::Plugin::Base
+    class WebDesignLedger < Duchess::Plugin::Base
       TRIGGERS = %w(!webdesignledger !wdl)
 
       def respond_to_msg?(msg, speaker)
